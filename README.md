@@ -1,9 +1,9 @@
 # Personal Website Seo Dal-Mi
 Learn to build website with HTML, CSS, Javascript season 1 episode 2
 
-![Image](https://res.cloudinary.com/moyadev/image/upload/v1610292705/Moyadev/hexanian-one-squashed.jpg)
+![Image](https://res.cloudinary.com/moyadev/image/upload/v1610709572/Moyadev/bright-office-environment-mockup-with-macbook-air.jpg)
 
-This is the [Demo Site](https://hexanian-one.netlify.app)
+This is the [Demo Site](https://seo-dalmi.netlify.app/)
 
 ## How to use
 
